@@ -14,7 +14,7 @@ This is a fictional cafe website created for portfolio practice using HTML and C
 - CSS
 
 ## Demo
-[https://username.github.io/cafe-website/](https://hayatosaita.github.io/cafe-website-practice/)
+[https://hayatosaita.github.io/cafe-website/](https://hayatosaita.github.io/cafe-website-practice/)
 
 ## Author
 GitHub: https://github.com/hayatosaita
